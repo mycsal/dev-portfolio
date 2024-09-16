@@ -109,7 +109,7 @@ export const myProjects = [
     desc: 'Developed in collaboration with the Army Research Labs as part of my senior design project at California State University, Los Angeles (CSULA), this application optimizes drone flight paths to minimize detection while enhancing operational efficiency.',
     subdesc:
       'This project leverages cutting-edge technologies such as React, Three.js, and Mapbox to provide real-time geospatial data analysis and 3D visualization. Designed to calculate optimal, stealthy flight routes, it plays a crucial role in improving unmanned aerial vehicle (UAV) mission success rates while reducing the risk of detection.',
-    href: '',
+    href: 'https://github.com/mycsal/suas-dfps',
     texture: '/textures/project/project2.mp4',
     logo: '/assets/project-logo2.png',
     logoStyle: {
